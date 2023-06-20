@@ -1,0 +1,11 @@
+name: SkyWars
+main: de.SkyWars.main.Main
+version: 1.2.0
+author: Fisicraft
+
+commands:
+  skywars:
+  start:
+  stats:
+  forcemap:
+  rank: 

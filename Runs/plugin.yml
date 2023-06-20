@@ -1,0 +1,6 @@
+name: MinecraftRuns
+main: io.github.Hattinger04.minecraftruns.MinecraftRuns
+version: 0.1
+commands: 
+   help: 
+   gamerun: 
